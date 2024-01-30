@@ -453,7 +453,9 @@ QSPI FLASH的具体型号和相关参数见下表
 
 QSPI FLASH连接到Versal
 ACAP芯片的PS部分BANK500的XPIO口上，在系统设计中需要配置这些PS端的MIO口功能为QSPI
-FLASH接口。\ |image1|
+FLASH接口。
+
+.. image:: images/media/image10.png
 
 图2-5-1 QSPI Flash连接示意图
 
@@ -1327,7 +1329,9 @@ VD100扩展板上配备了1个连接到PS端的Uart转USB接口。转换芯片�
 Labs CP2102GM的USB-UAR芯片, USB接口采用MINI
 USB接口，可以用一根USB线将它连接到上PC的USB口进行串口数据通信 。
 
-USB Uart电路设计的示意图如图3-5-1所示\ |image2| 
+USB Uart电路设计的示意图如图3-5-1所示
+
+.. image:: images/media/image18.png
 
 图3-5-1 USB转串口示意图
 
